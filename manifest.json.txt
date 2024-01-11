@@ -1,0 +1,9 @@
+{
+    "name": "Soft_Shovel",
+    "version_number": "1.0.0.0",
+    "website_url": "https://github.com/garrett-plumlee/Soft-Shovel",
+    "description": "Shovels no longer deal damage. No more bonking your friends!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
